@@ -5,7 +5,7 @@ package com.mcnz.rps.spring;
 
 public class Score {
 	
-    long id
+    long id;
 
 	public long getId() {
 		return id;
